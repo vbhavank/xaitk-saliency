@@ -66,6 +66,9 @@ Implementations
   interface as a simple way to invoke the combination of the Sliding Window
   perturbation method and the occlusion-based based scoring method.
 
+* Add  implementation of the ``GenerateDetectorProposalSaliency`` interface using
+  detection output and associated occlusion masks.
+
 Misc.
 
 * Update locked dependency versions to latest defined by abstract requirements.
